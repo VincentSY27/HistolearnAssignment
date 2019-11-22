@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00C6FF</color>
+    <color name="colorPrimaryDark">#0078FF</color>
+    <color name="colorAccent">#382DD5</color>
+
+    <color name="BGColor">#C7F1F1</color>
+    <color name="WhiteColor">#FFFFFF</color>
+    <color name="WhiteOpacity">#E6FFFFFF</color>
+
+
+    <color name="YoutubeColor">#EE1475</color>
+
+
+</resources>

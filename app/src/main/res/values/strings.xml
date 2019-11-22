@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HistoryIsFun</string>
+    <string name="title_activity_additional__resources__menu">Additional_Resources_Menu</string>
+    <string name="menu_flashcards">Flashcards</string>
+    <string name="menu_content">Content</string>
+    <string name="menu_quiz">Quizzes</string>
+    <string name="menu_additional_resources">Additional \n Resources</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="YoutubeLink">https://img.youtube.com/vi/</string>
+    <string name="resultresponse">ResultResponse</string>
+    <string name="mark">mark</string>
+    <string name="you_should_stop_learning_history_learn_infs3634_instead">You should stop learning history, learn INFS3634 instead!</string>
+    <string name="keep_trying_practice_makes_perfect">Keep Trying! Practice makes perfect!</string>
+
+
+</resources>
